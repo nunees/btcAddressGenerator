@@ -1,6 +1,11 @@
 # Bitcoin Wallet
 
+## Not your keys, not your coins
+
 Este repositório contem scripts para geração de endereços de bitcoin capazes de receber moedas.
+Com as suas chaves em mãos você tem total poder sobre os seus ativos, diferente de um banco ou corretora, onde você detem apenas a chave publica e se algo der errado com quem tem a custódia de seus ativos você perde tudo.
+
+**Não confie em bancos, empresas ou governos**
 
 São scripts de linha de comando:
 - Bash
